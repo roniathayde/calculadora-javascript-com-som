@@ -13,7 +13,7 @@
 ### Visualização
 
 
-![alt text](/imagem-projeto-calculadora.jpg)
+![alt text](./imagem-projeto-calculadora.jpg)
 
 --- 
 
